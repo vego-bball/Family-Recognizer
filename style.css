@@ -1,0 +1,32 @@
+body {
+    background-image: url(https://wallpapercave.com/wp/wp3201203.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.heading {
+    width: 60%;
+    font-size: 28px;
+    color: darkseagreen;
+}
+#ofc {
+    background-color: cyan;
+    color: crimson;
+    border: 100px;
+    font-size: 22px;
+    width: 50%;
+}
+#sheee {
+    font-size: 24px;
+    color: lemonchiffon;
+}
+#twen {
+    font-size: 26px;
+    color: mistyrose;
+}
+#ble {
+    color: blue;
+    font-weight: bold;
+}
+#layz {
+    color: palevioletred;
+}
