@@ -1,7 +1,7 @@
 //https://teachablemachine.withgoogle.com/models/i9ORyjagE/
 Webcam.set({
     width: 350,
-    height: 300,
+    height: 270,
     image_format: "jpeg",
     jpeg_quality: 100
 });
